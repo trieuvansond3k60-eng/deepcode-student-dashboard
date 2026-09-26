@@ -13,7 +13,6 @@ const Sidebar = () => {
 
       <Link
         to="/student"
-        className="flex items-center mb-6 hover:bg-gray-700 p-2 rounded"
       >
         <IoMdPerson className="mr-2" />
         <span>Quản lý sinh viên</span>
